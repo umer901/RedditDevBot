@@ -21,8 +21,8 @@ reddit = praw.Reddit(
 )
 
 # Choose subreddits to monitor
-# subreddit = reddit.subreddit("all") 
-subreddit = reddit.subreddit("testingground4bots")
+subreddit = reddit.subreddit("all") 
+#subreddit = reddit.subreddit("testingground4bots")
 
 # Compile command pattern
 command_pattern = re.compile(r"!devtrends\s+(\w+)", re.IGNORECASE)
