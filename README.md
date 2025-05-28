@@ -83,9 +83,8 @@ Here is a sample response (excluding the graph)
 ##  Project Structure
 
 ```
-tech-trends-bot/
 ├── reddit.py             # Main bot script
-├── main.py             # Runs secondary functions
+├── main.py               # Runs secondary functions
 ├── github.py             # GitHub data fetcher
 ├── stackoverflow.py      # Stack Overflow tag scraper
 ├── jobs.py               # Job postings search
