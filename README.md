@@ -4,7 +4,7 @@ A Reddit bot that detects developer and market interest in programming technolog
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Aggregates data from:
   - **GitHub repositories**
@@ -17,7 +17,7 @@ A Reddit bot that detects developer and market interest in programming technolog
 
 ---
 
-## 🛠 Setup
+##  Setup
 
 ### 1. Clone the repository
 
@@ -76,7 +76,7 @@ Example:
 
 Here is a sample response (excluding the graph)
 
-![Sample Response](images/Sample.png)
+![Sample Response](Sample.png)
 
 ---
 
